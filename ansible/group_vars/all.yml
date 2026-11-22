@@ -1,0 +1,5 @@
+app_image: "ghcr.io/dabjam/devops-ci-app"
+app_tag: "015e08c752a80105ce619347f1418969b2ceef6e"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
